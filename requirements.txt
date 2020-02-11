@@ -1,0 +1,19 @@
+# Core Dash
+plotly
+dash
+dash-core-components
+dash-html-components
+dash-renderer
+flask
+python-jose
+
+# Additional
+pandas
+tables
+scipy
+scikit-learn
+dash-table
+dash-table-experiments
+xlrd
+sd-material-ui
+uwsgi
